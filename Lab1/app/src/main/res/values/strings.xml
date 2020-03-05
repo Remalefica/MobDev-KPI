@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Flower Delivery</string>
+
+    <string name="hi">FLOWER DELIVERY</string>
+    <string name="spinner_title">Select flower color, bouquet price:</string>
+    <string name="ok">OK</string>
+    <string name="reset">RESET</string>
+    <string name="nothing_selected_item">—</string>
+    <string name="nothing_selected_color">You have not chosen any options yet</string>
+    <string name="nothing_selected_price">Sorry!</string>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>White</item>
+        <item>Pink</item>
+        <item>Blue/Violet</item>
+    </string-array>
+    <string-array name="price">
+        <item>Up to 100</item>
+        <item>100-250</item>
+        <item>250-500</item>
+        <item>More than 500</item>
+    </string-array>
+</resources>
