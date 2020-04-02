@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="100"
+    android:background="@drawable/moments720x1080x2"
+    tools:context=".MainActivity">
+
+<fragment
+    android:id="@+id/choiceFragment"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="23"
+    android:name="com.example.lab2.ChoiceFragment"
+    tools:layout="@layout/fragment_choice" />
+<fragment
+    android:id="@+id/resultFragment"
+    android:layout_width="match_parent"
+    android:layout_weight="77"
+    android:layout_height="fill_parent"
+    android:name="com.example.lab2.ResultFragment"
+    tools:layout="@layout/fragment_result" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
