@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="title_music">Music</string>
+    <string name="title_video">Video</string>
+    <string name="empty_music">Hey, add some songs first!</string>
+    <string name="empty_video">Hey, add some videos first!</string>
+    <string name="filename">Filename</string>
+    <string name="videoContentDescription">video_thumbnail</string>
+</resources>

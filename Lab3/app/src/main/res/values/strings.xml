@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Flower Delivery</string>
+    <string name="hi">FLOWER DELIVERY</string>
+    <string name="ok">OK</string>
+    <string name="nothing_selected_color">You have not chosen any options yet</string>
+    <string name="nothing_selected_price">Sorry!</string>
+    <string name="color1">Red</string>
+    <string name="color3">White</string>
+    <string name="color2">Yellow</string>
+    <string name="title_color">Choose color</string>
+    <string name="title_price">Choose price of flowers:</string>
+    <string name="price1">100–150</string>
+    <string name="price2">150–200</string>
+    <string name="price3">200–350</string>
+    <string name="promise_text">We will find all options of flowers and prices.</string>
+    <string name="output">No orders</string>
+    <string name="warning_message">Choose color of flowers and price!</string>
+    <string name="file_empty">The file is empty now</string>
+</resources>
